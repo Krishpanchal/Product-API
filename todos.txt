@@ -1,0 +1,10 @@
+Add product API with below fields
+○ Product name        - Done
+○ Product image (Store product image in the local machine)
+○ Description        -  Done
+○ Quantity        -  Done
+○ Unit Price        -  Done
+● List product API with above fields        -  Done
+● Add to cart API        -  Done
+● Update item quantity on cart API        -  Done
+● List cart API        -  Done
